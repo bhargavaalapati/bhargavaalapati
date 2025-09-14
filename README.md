@@ -1,12 +1,23 @@
-# 💫 About Me:
-👋 Hi, I’m @bhargavaalapati  <br>👀 I’m interested in full stack developing  <br>🌱 I’m currently learning python core  <br>💞️ I’m looking to collaborate on java or mern full stack projects  <br>
+# 💫 About Me
+👋 Hi, I’m **Bhargava Alapati**  
+💻 Aspiring **Full Stack Developer** with strong interest in **MERN stack & Java development**  
+📊 Exploring **Data Science & Machine Learning** with Python  
+🌱 Currently strengthening my **core Python & problem-solving skills**  
+🤝 Open to collaborating on **Full Stack Projects (MERN/Java)** and **ML Applications**  
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramaalapati) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/rama-alapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramaalapati0909@gmail.com) 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramaalapati)  
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/rama-alapati)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramaalapati0909@gmail.com)  
 
+---
+
+## 💻 Tech Stack
 
 ### 🌐 Full Stack Development
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -48,15 +59,18 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-# 📊 GitHub Stats:
+---
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=bhargavaalapati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bhargavaalapati&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavaalapati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhargavaalapati&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=bhargavaalapati&icon=3&color=0)](https://visitcount.itsvg.in)
