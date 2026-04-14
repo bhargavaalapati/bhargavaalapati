@@ -1,9 +1,9 @@
 # 💫 About Me
 👋 Hi, I’m **Bhargava Alapati**  
-💻 Aspiring **Full Stack Developer** with strong interest in **MERN stack & Java development**  
+💻 Aspiring **Full Stack Developer** with strong interest in **MERN stack & Gen AI Integration**  
 📊 Exploring **Data Science & Machine Learning** with Python  
 🌱 Currently strengthening my **core Python & problem-solving skills**  
-🤝 Open to collaborating on **Full Stack Projects (MERN/Java)** and **ML Applications**  
+🤝 Open to collaborating on **Full Stack Projects (MERN/Java)** and **Basic AI Applications**  
 
 ---
 
@@ -40,9 +40,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/seaborn-4EABCF?style=for-the-badge&logo=python&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white) 
 
 ### 🎨 UI/UX & Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
